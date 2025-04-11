@@ -1,0 +1,21 @@
+{
+  "name": "docker-automation",
+  "version": "1.0.0",
+  "description": "Here is a comprehensive image of what we are going to implement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinna21/Docker-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dinna21/Docker-Automation/issues"
+  },
+  "homepage": "https://github.com/dinna21/Docker-Automation#readme"
+}
