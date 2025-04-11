@@ -26,5 +26,5 @@ jobs:
           context: ./
           push: true
           tags: |
-                dinura2002/docker-automation:${{ env.SHORT_SHA }}
-                dinura2002/docker-automation:latest
+                tharinduk001/docker-automation:${{ env.SHORT_SHA }}
+                tharinduk001/docker-automation:latest
